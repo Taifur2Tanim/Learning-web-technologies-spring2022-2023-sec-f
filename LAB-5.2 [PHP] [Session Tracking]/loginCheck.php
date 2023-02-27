@@ -15,6 +15,7 @@
         header('Location: dashboard.php');   
     }else 
     {
+        
         unset($_SESSION['rememberMe']);
         $_SESSION['upw'] = true; // true = username or password wrong
         $_SESSION['lusername'] = $_REQUEST['username']; // saving username for retainment
