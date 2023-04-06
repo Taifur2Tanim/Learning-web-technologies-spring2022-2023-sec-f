@@ -1,0 +1,7 @@
+Notification,create Notification,Admin can create notification.
+Shop,add product.,Admin can add product.
+Currency converter,Convert currency,user can see the rate of converted  currency.
+Notification,create Notification,user can view the notification
+Notification,create Notification,bhvtvgtgvt
+Notification,create Notification,dfjkjo
+Transaction Details,dfjd,dfdjkdf
